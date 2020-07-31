@@ -5,6 +5,7 @@ Hush, listen, my kids. This is a story from another world.
 > *Corporation?*
 
 > *...Last home.*
+
 ```markdown
 Syntax highlighted code block
 
